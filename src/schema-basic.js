@@ -1,4 +1,4 @@
-import {Schema} from "/prosemirror/dist/prosemirror-model.es.js"
+import {Schema} from "/prosemirror/devimports/prosemirror-model.es.js"
 
 const pDOM = ["p", 0], blockquoteDOM = ["blockquote", 0], hrDOM = ["hr"],
       preDOM = ["pre", ["code", 0]], brDOM = ["br"]
